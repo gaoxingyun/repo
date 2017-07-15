@@ -5,7 +5,7 @@
 
 
 #### 使用
-###### 添加自定义maven仓库到pom.xml文件中。
+###### 添加自定义maven仓库到文件中。
 - maven
 ```xml
 <project>
